@@ -10,6 +10,6 @@
 <h3>✔️Imagens do Projeto:</h3>
 <img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%201.png" alt="imagem-1"/>
 <img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%202.png" alt="imagem-2"/>
-<img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%202.png" alt="imagem-3"/>
+<img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%203.png" alt="imagem-3"/>
 <img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%204.png" alt="imagem-4"/>
 <img src="https://github.com/carolinacubass/projeto-one-piece/blob/main/src/imagens/imagens/imagem%205.png" alt="imagem-5"/>
